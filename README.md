@@ -1,7 +1,6 @@
 # E-commerce Return task for data mining
 
 
-KAIST AI 506 Data mining course final project  <br>
 
 I worked on a project in a data mining class to predict return status based on order information. Using 850,000 order records, we framed this as a multi-class classification problem with three categories: full return, partial return, and no return. The tabular dataset included features like product type, weight, color, and customer details.
 
